@@ -13,6 +13,8 @@ Python script for testing the SSL/TLS Protocols
 
   * $ pip install pyopenssl
 
+  * $ pip install cryptography
+
   * $ pip install requets
 
   * for OpenSSL 0.9.8: 'pyOpenSSL<17.0' 'cryptography<1.4'
