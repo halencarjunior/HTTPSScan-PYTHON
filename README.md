@@ -29,7 +29,7 @@ Check for SSL/TLS Vulnerabilities:
 
 Usage:
 
-python3 httpsscan.py [target] [port] [option]
+python httpsscan.py [target] [port] [option]
 
 Options:
 
